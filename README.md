@@ -7,4 +7,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=leavesCZY&show_icons=true&&hide=prs,issues,contribs)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leavesCZY&layout=compact&card_width=445)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leavesCZY&hide=Makefile&layout=compact&card_width=445)
